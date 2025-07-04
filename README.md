@@ -1,4 +1,5 @@
-🧾 Mini Local Business Dashboard
+**🧾 Mini Local Business Dashboard**
+
 A lightweight web-based dashboard for small/local businesses to input, view, and track key business metrics — built with React.js (Frontend) and Node.js (Backend).
 
 🚀 Features
